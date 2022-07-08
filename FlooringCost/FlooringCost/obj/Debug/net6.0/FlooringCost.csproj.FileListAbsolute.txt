@@ -1,0 +1,15 @@
+C:\Users\didym\source\repos\FlooringCost\FlooringCost\bin\Debug\net6.0\FlooringCost.exe
+C:\Users\didym\source\repos\FlooringCost\FlooringCost\bin\Debug\net6.0\FlooringCost.deps.json
+C:\Users\didym\source\repos\FlooringCost\FlooringCost\bin\Debug\net6.0\FlooringCost.runtimeconfig.json
+C:\Users\didym\source\repos\FlooringCost\FlooringCost\bin\Debug\net6.0\FlooringCost.dll
+C:\Users\didym\source\repos\FlooringCost\FlooringCost\bin\Debug\net6.0\FlooringCost.pdb
+C:\Users\didym\source\repos\FlooringCost\FlooringCost\obj\Debug\net6.0\FlooringCost.csproj.AssemblyReference.cache
+C:\Users\didym\source\repos\FlooringCost\FlooringCost\obj\Debug\net6.0\FlooringCost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\didym\source\repos\FlooringCost\FlooringCost\obj\Debug\net6.0\FlooringCost.AssemblyInfoInputs.cache
+C:\Users\didym\source\repos\FlooringCost\FlooringCost\obj\Debug\net6.0\FlooringCost.AssemblyInfo.cs
+C:\Users\didym\source\repos\FlooringCost\FlooringCost\obj\Debug\net6.0\FlooringCost.csproj.CoreCompileInputs.cache
+C:\Users\didym\source\repos\FlooringCost\FlooringCost\obj\Debug\net6.0\FlooringCost.dll
+C:\Users\didym\source\repos\FlooringCost\FlooringCost\obj\Debug\net6.0\refint\FlooringCost.dll
+C:\Users\didym\source\repos\FlooringCost\FlooringCost\obj\Debug\net6.0\FlooringCost.pdb
+C:\Users\didym\source\repos\FlooringCost\FlooringCost\obj\Debug\net6.0\FlooringCost.genruntimeconfig.cache
+C:\Users\didym\source\repos\FlooringCost\FlooringCost\obj\Debug\net6.0\ref\FlooringCost.dll
